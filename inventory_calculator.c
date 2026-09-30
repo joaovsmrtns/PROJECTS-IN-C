@@ -1,5 +1,7 @@
-// AVA 2
-// Systems Analysis and Development
+// Inventory calculator.
+// Asks for the number of products, then reads the name, quantity and unit price of each one.
+// Shows the subtotal of each product and the total value of the inventory.
+// Concepts: structs, pointers, dynamic memory allocation (malloc/free) and functions.
 
 #include <stdio.h>
 #include <stdlib.h>

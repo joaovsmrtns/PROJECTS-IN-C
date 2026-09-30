@@ -1,6 +1,8 @@
-// AVA 2 - GRADED ASSIGNMENT
-// Description: the program is a system that receives employee information, then
-// calculates and displays each employee's weekly salary in the terminal, based on the data entered by the user.
+// Employee weekly salary calculator.
+// Reads the employee's name, weekly hours worked and hourly rate.
+// Hours beyond 40 are paid with a 50% overtime bonus.
+// After each calculation, the user can choose to analyze another employee.
+// Concepts: functions, pointers as parameters (pass by reference), do/while loop and string input.
 
 #include <stdio.h>
 

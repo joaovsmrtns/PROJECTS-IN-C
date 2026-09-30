@@ -1,3 +1,9 @@
+// Voting system.
+// Reads votes in a loop until the user enters 0. Options are candidate 1, 2 or 3,
+// 4 for a blank vote, and any other number for a null vote.
+// At the end, shows the winner (or a tie), each candidate's votes and the totals.
+// Concepts: while loop, switch/case and counters.
+
 #include <stdio.h>
 
 int main() {
